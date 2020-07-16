@@ -43,6 +43,8 @@ D露西字體的特色是，左半邊黑體+右半邊圓體，一個綜合的字
     
 ## 相關網頁
 
+* 獅尾A1宋朝 Swei A1 Serif
+https://max-everyday.com/2020/07/swei-a1-serif/
 * 獅尾D露西 Swei D Lucy
 https://max-everyday.com/2020/07/swei-d-lucy/
 * 台灣圓體 TaiwanPearl
