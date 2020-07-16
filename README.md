@@ -4,6 +4,7 @@
 
 D露西字體的特色是，左半邊黑體+右半邊圓體，一個綜合的字體，「口」字會有一點點像英文字母D 的符號。
 
+和思源黑體一樣，支援7種的字重：
 ![字體預覽](https://github.com/max32002/swei-d-lucy/raw/master/preview/compare_style.png)
 
 ## 與其他字體的比較
