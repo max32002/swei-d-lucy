@@ -1,6 +1,6 @@
 # 獅尾D露西 Swei.D.Lucy
 
-獅尾D露西基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)的右半邊變圓改造，更加簡明現代化的字體。支援简体中文、繁體中文、韓文與日文。
+獅尾D露西基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)的右半邊變圓改造，更加簡明現代化的字體。支援简体中文、繁體中文、韓文與日文；歡迎大家自由應用、自由優化、自由改作！
 
 D露西字體的特色是，左半邊黑體+右半邊圓體，一個綜合的字體，「口」字會有一點點像英文字母D 的符號。
 
@@ -44,6 +44,8 @@ D露西字體的特色是，左半邊黑體+右半邊圓體，一個綜合的字
     
 ## 相關網頁
 
+* 獅尾B2黑體 Swei B2 Sans
+https://max-everyday.com/2020/07/swei-b2-sans/
 * 獅尾B2宋朝 Swei B2 Serif
 https://max-everyday.com/2020/07/swei-b2-serif/
 * 獅尾D露西 Swei D Lucy
