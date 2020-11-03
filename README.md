@@ -50,8 +50,8 @@ D露西字體的特色是，左半邊黑體+右半邊圓體，一個綜合的字
 ```
 @font-face {
   font-family: SweiDLucyCJKtc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-d-lucy@2.0/WebFont/CJK%20TC/SweiDLucyCJKtc-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/swei-d-lucy@2.0/WebFont/CJK%20TC/SweiDLucyCJKtc-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-d-lucy@2.129/WebFont/CJK%20TC/SweiDLucyCJKtc-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/swei-d-lucy@2.129/WebFont/CJK%20TC/SweiDLucyCJKtc-Regular.woff) format("woff");
 }
 ```
 
